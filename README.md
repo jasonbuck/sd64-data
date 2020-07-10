@@ -1,2 +1,2 @@
-# sd64-data
-Data relating to SD64 re-configuration
+# SD64 Data
+Collated data relating to SD64 re-configuration, financials and comparables.
